@@ -1,0 +1,8 @@
+SUBNET_PORT_SET_FILENAME = 'port_set.pkl'
+SUBNET_APP_SET_FILENAME = 'app_set.pkl'
+SUBNET_MAX_APP_COUNT_FILENAME = 'max_app_count.txt'
+SUBNET_MAX_PORT_COUNT_FILENAME = 'max_port_count.txt'
+SCANNED_TIMES_FILENAME = 'scanned_times.npz'
+PREDICT_RESULT_FILENAME = 'result.json'
+LINE_COUNT_FILENAME = 'line_count.txt'
+PREDICT_USING_TIME_FILENAME = 'predict_using_time.txt'
